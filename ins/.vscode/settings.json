@@ -1,0 +1,7 @@
+
+{
+    "iar.enabled": true,
+    "files.associations": {
+        "rtkcmn.h": "c"
+    }
+}

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>3514779337</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\include\cmatrix.h</file>
+            <file>$PROJ_DIR$\..\..\include\insmech.h</file>
+            <file>$PROJ_DIR$\..\..\src\insoutmsg.c</file>
+            <file>$PROJ_DIR$\..\..\src\cmatrix.c</file>
+            <file>$PROJ_DIR$\..\..\include\lcgnssupdate.h</file>
+            <file>$PROJ_DIR$\..\..\src\lcinsupdate.c</file>
+            <file>$PROJ_DIR$\..\..\include\datatype.h</file>
+            <file>$PROJ_DIR$\..\..\include\define.h</file>
+            <file>$PROJ_DIR$\..\..\include\loosecoupleset.h</file>
+            <file>$PROJ_DIR$\..\..\include\earth.h</file>
+            <file>$PROJ_DIR$\..\..\src\earth.c</file>
+            <file>$PROJ_DIR$\..\..\src\insmech.c</file>
+            <file>$PROJ_DIR$\..\..\src\lcsystem.c</file>
+            <file>$PROJ_DIR$\..\..\src\loosecoupleset.c</file>
+            <file>$PROJ_DIR$\..\..\include\lcinsupdate.h</file>
+            <file>$PROJ_DIR$\..\..\src\lcgnssupdate.c</file>
+            <file>$PROJ_DIR$\..\..\src\matrix_wu.c</file>
+            <file>$PROJ_DIR$\..\..\include\insoutmsg.h</file>
+            <file>$PROJ_DIR$\..\..\src\orientation.c</file>
+            <file>$PROJ_DIR$\..\..\include\lcsystem.h</file>
+            <file>$PROJ_DIR$\..\..\include\orientation.h</file>
+            <file>$PROJ_DIR$\..\..\include\zuptdetect.h</file>
+            <file>$PROJ_DIR$\..\..\include\matrix_wu.h</file>
+            <file>$PROJ_DIR$\..\..\include\lcstruct.h</file>
+            <file>$PROJ_DIR$\..\..\include\rtkcmn.h</file>
+            <file>$PROJ_DIR$\..\..\include\positionfilter.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\loosecoupleset.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\positionfilter.xcl</file>
+            <file>$PROJ_DIR$\..\..\src\positionfilter.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\zuptdetect.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ins_interface.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\insmech.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcsystem.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\insoutmsg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\insoutmsg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcgnssupdate.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\cmatrix.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\cmatrix.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ins_interface.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\..\..\src\rtkcmn.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\zuptdetect.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\insoutmsg.xcl</file>
+            <file>$PROJ_DIR$\..\..\src\ins_interface.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtkcmn.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\matrix_wu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcinsupdate.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\time32.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtkcmn.xcl</file>
+            <file>$PROJ_DIR$\..\..\src\zuptdetect.c</file>
+            <file>$PROJ_DIR$\..\..\ins_interface_API.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\orientation.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\positionfilter.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\gnss_interface\gnss_interface_API.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\loosecoupleset.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcgnssupdate.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\earth.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\positionfilter.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\matrix_wu.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtkcmn.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\gnss_interface\typedefs.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zuptdetect.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\cmatrix.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcsystem.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\orientation.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcsystem.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcinsupdate.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcgnssupdate.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Exe\ins_lib.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcinsupdate.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\loosecoupleset.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\insmech.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\matrix_wu.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Lib\ins_lib.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\orientation.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\insmech.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\earth.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\earth.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>IARCHIVE</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\insoutmsg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 67 89 28 48 85 91 17 49 6 23 9 56 59 93 53 70 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\cmatrix.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 0 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\lcinsupdate.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 28 89 48 14 49 6 23 19 67 8 1 9 20 0 21 4 25</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\earth.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 49 83 35 61 76 29 27 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\insmech.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 1 23 49 83 35 61 76 29 6 67 89 28 48 0 9 20 27 43 22 85 91 93 53</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\lcsystem.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 28 89 48 85 91 19 49 67 8 23 6 7 9 20 0 21 25</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\loosecoupleset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8 49 83 35 61 76 29</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\lcgnssupdate.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 28 89 48 4 49 6 19 67 8 23 9 20 0 21 14</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\matrix_wu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\orientation.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20 27 83 35 61 76 29 43 67 89</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\positionfilter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25 23 49 83 35 61 76 29 6 27 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\rtkcmn.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24 93 83 35 61 76 29 89 53 28 48 59 70 49 66 62 27 43 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\ins_interface.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 56 49 6 19 67 89 8 23 4 14 17 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\zuptdetect.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 83 35 61 76 29 43 28 89 48 21 49 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\ins_lib.a</name>
+            <inputs>
+                <tool>
+                    <name>IARCHIVE</name>
+                    <file> 40 92 34 37 63 80 36 60 51 57 65 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Lib\ins_lib.a</name>
+            <inputs>
+                <tool>
+                    <name>IARCHIVE</name>
+                    <file> 40 92 34 37 63 80 36 60 51 57 65 50 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

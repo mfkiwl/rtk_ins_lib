@@ -1,0 +1,10 @@
+{
+	"gnss_lib_project_path": "./gnss/iar_8.4/gnss_lib/gnss_lib.ewp", 
+	"ins_lib_project_path": "./ins/iar_8.4/ins_lib/ins_lib.ewp",
+	"gnss_lib_path": "./gnss/iar_8.4/gnss_lib/Debug/Lib/gnss_lib.a", 
+	"ins_lib_path": "./ins/iar_8.4/ins_lib/Debug/Lib/ins_lib.a",
+	"dst_gnss_lib_path": "./rtk330la_rtk/gnss/gnss_lib.a", 
+	"dst_ins_lib_path": "./rtk330la_ins/ins/ins_lib.a",
+	"dst_repo_path": "http://20.36.180.84:2021/daichenghe/rtk330la_fw",
+	"dst_repo_branch": "master"
+}
